@@ -3,6 +3,7 @@
 ## 参考用书
 
 -   王道操作系统
+-   [Opreating System: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## 学习视频
 
@@ -24,6 +25,12 @@
 -   [1.5操作系统引导](./chapter1_5.md)
 
 -   [1.6虚拟机](./chapter1_6.md)
+
+## 第2章 进程与线程
+
+考纲内容：进程线程、CPU调度与上下文切换、同步与互斥、死锁
+
+-   [2.1 进程与线程](./chapter2_1.md)
 
 
 
